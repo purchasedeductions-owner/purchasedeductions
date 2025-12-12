@@ -41,3 +41,9 @@ Purchase Deductions is currently in development. Early access will be available 
 ## Links
 
 - Website: https://www.purchasedeductions.com
+
+---
+
+## Screenshot
+
+![Purchase Deductions – AI-powered Amazon purchase deduction analysis](purchase-deductions-screenshot.png)
